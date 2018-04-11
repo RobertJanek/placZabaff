@@ -4,4 +4,7 @@ test konfliktu
 pierwszy comit
 ATAK HAKERSKI
 
+has³o:
+******
+
 Robert Paszkowski
